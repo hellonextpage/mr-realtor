@@ -1,0 +1,57 @@
+.tabcont {
+    width: 200px;
+    height: 350px;
+    overflow-y: auto;
+}
+
+.tablist {
+    width: 25px;
+    height: 25px;
+    padding: 0px
+}
+
+.nav>li>p {
+    padding: 0px;
+    color: #fff;
+    font-size: 11px;
+}
+
+.nav-stacked>li {
+    background-color: rgba(0, 60, 136, .5);
+    border: 2px solid #fef;
+}
+
+.tablistcol {
+    width: 25px;
+}
+
+.glyphicon {
+    font-size: 14px;
+    padding: 2px;
+}
+
+.tab-content {
+    background-color: rgba(0, 60, 136, .5);
+    border: 2px solid #fef;
+    padding: 15px;
+    padding-top: 0px;
+    color: #fff;
+    margin-right: 20px;
+}
+
+.tab-content h3 {
+    margin: 0px 0px 30px 0px;
+}
+
+.btn-default {
+    background-color: #3f3e37;
+    margin: 5px 0px 5px 0px;
+    color: #fff;
+    border: none;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.form-control {
+    background-color: #fff;
+}
